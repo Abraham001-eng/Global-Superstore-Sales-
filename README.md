@@ -84,6 +84,4 @@ Integrate additional data sources (e.g., marketing spend, customer demographics)
 
 Develop key performance indicator (KPI) cards with conditional formatting.
 
-Author
 
-Abraham001-eng
